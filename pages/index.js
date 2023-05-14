@@ -6,7 +6,7 @@ import React from 'react'
 
 const Index = () => {
   return (
-    <div className='relative z-0 bg-primary'>
+    <div className='relative z-0 bg-primary max-w-[100vw] overflow-hidden'>
       <Head>
         <title>Portfolio</title>
         <meta
@@ -25,7 +25,7 @@ const Index = () => {
       <Feedbacks />
       <div className='relative z-0'>
         <Contact />
-        {/* <StarsCanvas /> */}
+        <StarsCanvas />
       </div>
     </div>
   )
