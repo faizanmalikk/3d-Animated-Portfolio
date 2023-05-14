@@ -63,7 +63,7 @@ const ComputersCanvas = () => {
 
   return (
 
-    <div className="flex justify-center h-screen w-[90vw] mx-auto">
+    <div className="flex justify-center h-screen w-[90vw] mx-auto" >
 
       <Canvas
         frameloop='demand'

@@ -2,7 +2,7 @@ import React, { useRef, useState } from "react";
 import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
 
-import { EarthCanvas } from "./canvas";
+import { EarthCanvas, StarsCanvas } from "./canvas";
 import { slideIn } from "../utils/motion";
 import { styles } from "@/styles/style";
 import SectionWrapper from "./Hoc/SectionWrapper";
@@ -108,6 +108,7 @@ const Contact = () => {
           <EarthCanvas />
         </motion.div>
       </div>
+      {/* <StarsCanvas /> */}
     </div>
   );
 };
