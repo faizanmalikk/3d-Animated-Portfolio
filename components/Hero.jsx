@@ -37,7 +37,8 @@ const Hero = () => {
           </p>
         </div>
       </div>
-      <div className="pt-[25px] md:pt-0">
+      <div className="pt-[25px] md:pt-0"
+      >
         <ComputersCanvas />
       </div>
 
