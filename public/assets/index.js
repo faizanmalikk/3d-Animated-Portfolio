@@ -38,6 +38,7 @@ import codezone from '../assets/projects/codezone.jpg'
 import lingo from '../assets/projects/lingo.jpg'
 import orion from '../assets/projects/orion.jpg'
 import zeema from '../assets/projects/zeema.jpg'
+import bond from '../assets/projects/007.jpg'
 
 export {
   logo,
@@ -72,5 +73,6 @@ export {
   codezone,
   orion,
   zeema,
-  lingo
+  lingo,
+  bond
 };

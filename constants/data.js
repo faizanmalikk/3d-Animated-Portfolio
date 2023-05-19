@@ -19,6 +19,7 @@ import {
     codezone,
     orion,
     zeema,
+    bond,
     lingo,
     threejs,
 } from "../public/assets";
@@ -162,6 +163,31 @@ const testimonials = [
 ];
 
 const projects = [
+    {
+        name: "$007 Frontend",
+        description:
+            "The frontend design of $007 Frontend demonstrates a harmonious combination of elegant typography, stunning visuals, and intuitive navigation.",
+        tags: [
+            {
+                name: "vitejs",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "reactjs",
+                color: "green-text-gradient",
+            },
+            {
+                name: "tailwind",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "material-ui",
+                color: "yellow",
+            },
+        ],
+        image: bond,
+        source_code_link: "https://bond-frontend.netlify.app",
+    },
     {
         name: "Orion Frontend",
         description:
