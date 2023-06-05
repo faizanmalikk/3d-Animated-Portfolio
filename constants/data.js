@@ -211,7 +211,7 @@ const projects = [
             },
         ],
         image: orion,
-        source_code_link: "https://orion-frontend.netlify.app",
+        source_code_link: "https://orion-updated.netlify.app",
     },
     {
         name: "CodeZone",
