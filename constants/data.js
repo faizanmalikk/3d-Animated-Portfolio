@@ -124,7 +124,7 @@ const experiences = [
         company_name: "CodeZone",
         icon: '/codezone.png',
         iconBg: "#383E56",
-        date: "October 2022 - May 2023",
+        date: "Aug 2022 - Feb 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",

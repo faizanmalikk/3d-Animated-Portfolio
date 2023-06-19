@@ -14,7 +14,7 @@ const Navbar = () => {
   useEffect(() => {
     const handleScroll = () => {
       const scrollTop = window.scrollY;
-      if (scrollTop > 100) {
+      if (scrollTop > 70) {
         setScrolled(true);
       } else {
         setScrolled(false);
@@ -31,7 +31,7 @@ const Navbar = () => {
       className={`sm:px-16 px-6 w-full flex items-center py-5 fixed top-0 z-40 ${scrolled ? "bg-primary" : "bg-transparent"
         }`}
     >
-      <div className='w-full flex justify-between items-center max-w-7xl mx-auto'>
+      <div className='w-full flex justify-between items-center max-w-[1420px] mx-auto'>
         <div
           className='flex items-center gap-2'
           onClick={() => {
