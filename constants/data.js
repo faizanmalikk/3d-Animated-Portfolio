@@ -189,7 +189,7 @@ const projects = [
         source_code_link: "https://bond-frontend.netlify.app",
     },
     {
-        name: "Orion Frontend",
+        name: "Orion",
         description:
             "Orion is a visually stunning and interactive frontend project that showcases my skills. Explore the beautifully crafted interface that demonstrate my expertise in frontend technologies.",
         tags: [
