@@ -163,6 +163,7 @@ const testimonials = [
 ];
 
 const projects = [
+  
     {
         name: "$007 Frontend",
         description:
@@ -242,7 +243,7 @@ const projects = [
                 name: "rest-api",
                 color: "indigo",
             },
-            
+
         ],
         image: codezone,
         source_code_link: "https://codezoone.netlify.app",
@@ -309,7 +310,7 @@ const projects = [
         image: lingo,
         source_code_link: "https://app.lingotalker.com",
     },
- 
+
 ];
 
 export { services, technologies, experiences, testimonials, projects };

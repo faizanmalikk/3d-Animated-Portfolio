@@ -14,10 +14,7 @@
 }
 
 
-.underline-effect {
-  position: relative;
 
-}
 
 .yellow {
   color: rgb(234 179 8);
@@ -27,6 +24,11 @@
 }
 .indigo{
   color : rgb(129 140 248)
+}
+
+.underline-effect {
+  position: relative;
+
 }
 
 .underline-effect:after {
