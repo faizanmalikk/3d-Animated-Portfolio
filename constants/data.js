@@ -221,31 +221,6 @@ const projects = [
         source_code_link: "https://dank-frontend.netlify.app",
     },
     {
-        name: "$007 Frontend",
-        description:
-            "The frontend design of $007 Frontend demonstrates a harmonious combination of elegant typography, stunning visuals, and intuitive navigation.",
-        tags: [
-            {
-                name: "vitejs",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "reactjs",
-                color: "green-text-gradient",
-            },
-            {
-                name: "tailwind",
-                color: "pink-text-gradient",
-            },
-            {
-                name: "material-ui",
-                color: "yellow",
-            },
-        ],
-        image: bond,
-        source_code_link: "https://bond-frontend.netlify.app",
-    },
-    {
         name: "Orion",
         description:
             "Orion is a visually stunning and interactive frontend project that showcases my skills. Explore the beautifully crafted interface that demonstrate my expertise in frontend technologies.",
