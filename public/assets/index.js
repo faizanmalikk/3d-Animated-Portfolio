@@ -39,6 +39,8 @@ import lingo from '../assets/projects/lingo.jpg'
 import orion from '../assets/projects/orion.jpg'
 import zeema from '../assets/projects/zeema.jpg'
 import bond from '../assets/projects/007.jpg'
+import dank from '../assets/projects/dank.jpg'
+import paycat from '../assets/projects/paycat.jpg'
 
 export {
   logo,
@@ -74,5 +76,7 @@ export {
   orion,
   zeema,
   lingo,
-  bond
+  bond,
+  dank,
+  paycat
 };

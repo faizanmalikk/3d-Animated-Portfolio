@@ -22,6 +22,8 @@ import {
     bond,
     lingo,
     threejs,
+    dank,
+    paycat
 } from "../public/assets";
 
 export const navLinks = [
@@ -30,8 +32,8 @@ export const navLinks = [
         title: "About",
     },
     {
-        id: "work",
-        title: "Work",
+        id: "projects",
+        title: "Projects",
     },
     {
         id: "contact",
@@ -164,6 +166,60 @@ const testimonials = [
 
 const projects = [
   
+    {
+        name: "PayCat",
+        description:
+            "PayCat is an innovative and decentralized e-commerce platform that combines the power of blockchain technology with an intuitive chat feature to revolutionize online shopping. ",
+        tags: [
+            {
+                name: "vitejs",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "MERN Stack",
+                color: "green-text-gradient",
+            },
+            {
+                name: "solidity",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "AWS",
+                color: "yellow",
+            },
+            {
+                name: "Smart Contract",
+                color: "red",
+            },
+        ],
+        image: paycat,
+        source_code_link: "https://crypto-wallett.netlify.app/",
+    },
+    {
+        name: "Dank Frontend",
+        description:
+            "This project is a demonstration of my proficiency in building responsive and user-friendly interfaces, utilizing a modern tech stack and design principles.",
+        tags: [
+            {
+                name: "vitejs",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "reactjs",
+                color: "green-text-gradient",
+            },
+            {
+                name: "tailwind",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "swiperjs",
+                color: "yellow",
+            },
+        ],
+        image: dank,
+        source_code_link: "https://dank-frontend.netlify.app",
+    },
     {
         name: "$007 Frontend",
         description:
