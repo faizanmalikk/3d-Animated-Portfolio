@@ -41,6 +41,7 @@ import zeema from '../assets/projects/zeema.jpg'
 import bond from '../assets/projects/007.jpg'
 import dank from '../assets/projects/dank.jpg'
 import paycat from '../assets/projects/paycat.jpg'
+import grow from '../assets/projects/grow.jpg'
 
 export {
   logo,
@@ -78,5 +79,6 @@ export {
   lingo,
   bond,
   dank,
-  paycat
+  paycat,
+  grow
 };

@@ -23,7 +23,8 @@ import {
     lingo,
     threejs,
     dank,
-    paycat
+    paycat,
+    grow
 } from "../public/assets";
 
 export const navLinks = [
@@ -166,6 +167,35 @@ const testimonials = [
 
 const projects = [
   
+    {
+        name: "Grow",
+        description:
+            "Seamlessly stake your coins to build a robust investment portfolio, empowering users with a simplified and efficient approach to wealth growth.",
+        tags: [
+            {
+                name: "Reactjs",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "TailwindCSS",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Material-Ui",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "Wagmi",
+                color: "yellow",
+            },
+            {
+                name: "Smart Contract",
+                color: "red",
+            },
+        ],
+        image: grow,
+        source_code_link: "https://grow-demo.netlify.app/",
+    },
     {
         name: "PayCat",
         description:
