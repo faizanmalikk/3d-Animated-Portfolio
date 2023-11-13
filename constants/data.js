@@ -173,24 +173,20 @@ const projects = [
             "Seamlessly stake your coins to build a robust investment portfolio, empowering users with a simplified and efficient approach to wealth growth.",
         tags: [
             {
-                name: "Reactjs",
+                name: "4eactjs",
                 color: "blue-text-gradient",
             },
             {
-                name: "TailwindCSS",
+                name: "tailwind",
                 color: "green-text-gradient",
             },
             {
-                name: "Material-Ui",
+                name: "material-ui",
                 color: "pink-text-gradient",
             },
             {
-                name: "Wagmi",
+                name: "wagmi",
                 color: "yellow",
-            },
-            {
-                name: "Smart Contract",
-                color: "red",
             },
         ],
         image: grow,
