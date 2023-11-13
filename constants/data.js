@@ -173,7 +173,7 @@ const projects = [
             "Seamlessly stake your coins to build a robust investment portfolio, empowering users with a simplified and efficient approach to wealth growth.",
         tags: [
             {
-                name: "4eactjs",
+                name: "reactjs",
                 color: "blue-text-gradient",
             },
             {
