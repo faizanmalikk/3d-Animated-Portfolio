@@ -42,6 +42,7 @@ import bond from '../assets/projects/007.jpg'
 import dank from '../assets/projects/dank.jpg'
 import paycat from '../assets/projects/paycat.jpg'
 import grow from '../assets/projects/grow.jpg'
+import chainmail from '../assets/projects/chainmail.png'
 
 export {
   logo,
@@ -80,5 +81,6 @@ export {
   bond,
   dank,
   paycat,
-  grow
+  grow,
+  chainmail
 };
