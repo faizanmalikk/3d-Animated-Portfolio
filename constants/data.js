@@ -168,35 +168,7 @@ const testimonials = [
 
 const projects = [
 
-    {
-        name: "chainmail",
-        description:
-            "ChainMail is a revolutionary decentralized mail sending platform. In a world dominated by centralized email services, ChainMail stands out as a secure, transparent, and privacy-focused alternative.",
-        tags: [
-            {
-                name: "reactjs",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "tailwind",
-                color: "green-text-gradient",
-            },
-            {
-                name: "material-ui",
-                color: "pink-text-gradient",
-            },
-            {
-                name: "nodejs",
-                color: "yellow",
-            },
-            {
-                name: "web3",
-                color: "red",
-            },
-        ],
-        image: chainmail,
-        source_code_link: "https://chainmail-demo.netlify.app/",
-    },
+
     {
         name: "Grow",
         description:
@@ -276,6 +248,7 @@ const projects = [
         image: dank,
         source_code_link: "https://dank-frontend.netlify.app",
     },
+
     {
         name: "Orion",
         description:
@@ -300,6 +273,35 @@ const projects = [
         ],
         image: orion,
         source_code_link: "https://orion-updated.netlify.app",
+    },
+    {
+        name: "chainmail",
+        description:
+            "ChainMail is a revolutionary decentralized mail sending platform. In a world dominated by centralized email services, ChainMail stands out as a secure, transparent, and privacy-focused alternative.",
+        tags: [
+            {
+                name: "reactjs",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "tailwind",
+                color: "green-text-gradient",
+            },
+            {
+                name: "material-ui",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "nodejs",
+                color: "yellow",
+            },
+            {
+                name: "web3",
+                color: "red",
+            },
+        ],
+        image: chainmail,
+        source_code_link: "https://chainmail-demo.netlify.app/",
     },
     {
         name: "CodeZone",
